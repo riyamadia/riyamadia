@@ -1,24 +1,26 @@
 <div align="center">
 
-<!-- Replace the banner URL below with your own uploaded banner, if desired. -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,50:29231D,100:EFE2C6&height=150&section=header&text=RIYA%20MADIA&fontSize=42&fontColor=FFF7E8&fontAlignY=48&desc=Business%20Analysis%20%7C%20Project%20Coordination&descSize=15&descAlignY=72&descColor=F3E8D2" width="100%" alt="Riya Madia — Business Analysis and Project Coordination banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,45:302820,100:E9D8B5&height=190&section=header&text=RIYA%20MADIA&fontSize=46&fontColor=FFF7E8&fontAlignY=38&desc=BUSINESS%20ANALYST%20%20%E2%80%A2%20%20PROJECT%20COORDINATOR&descSize=14&descAlignY=60&descColor=F3E8D2" width="100%" alt="Riya Madia | Business Analyst and Project Coordinator" />
 
 ### Turning business needs into clear, actionable solutions.
 
-<p>
-  <a href="https://www.linkedin.com/in/riyamadia"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:riyamadia@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-BB8A55?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+*I connect people, processes, and product ideas to help teams build the right things.*
 
 <p>
-  <em>Business Analyst · Project Coordinator · Requirements & Process Enthusiast</em>
+  <a href="https://www.linkedin.com/in/riyamadia"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:riyamadia@gmail.com"><img src="https://img.shields.io/badge/SAY%20HELLO-Email-BB8A55?style=flat-square&logo=gmail&logoColor=white" alt="Email Riya" /></a>
 </p>
+
+<sub>Requirements &nbsp;·&nbsp; Process Improvement &nbsp;·&nbsp; Stakeholder Collaboration &nbsp;·&nbsp; Project Delivery</sub>
 
 </div>
 
 ---
 
 ## A little about me
+
+
 
 I'm a Business Analyst and Project Coordinator with **1.8 years of experience** working across business requirements, functional documentation, stakeholder communication, and project delivery.
 
